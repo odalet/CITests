@@ -254,3 +254,4 @@ paket-files/
 /TestJenkinsSonarMSTest/packages
 /.sonarqube
 /TestJenkinsSonarMSTest/.sonar
+/TestJenkinsSonarMSTest/CppLib/.sonar
