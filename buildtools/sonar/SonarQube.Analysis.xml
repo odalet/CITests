@@ -20,10 +20,8 @@
 
   <Property Name="sonar.host.url">http://localhost:9000</Property>
   
-  <!--
-  <Property Name="sonar.login"></Property>
-  <Property Name="sonar.password"></Property>
-  -->
+  <!--<Property Name="sonar.login">jenkins</Property>
+  <Property Name="sonar.password">jenkins</Property>-->
 
   <!-- Required only for versions of SonarQube prior to 5.2 -->
   <!--
