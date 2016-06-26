@@ -8,7 +8,12 @@ public:
 	static double mul(double a, double b);
 	static double div(double a, double b);
 
+	CppCalc(unsigned unusedParameter);
+
 private:
+
+
+
 	CppCalc();
 	~CppCalc();
 };
